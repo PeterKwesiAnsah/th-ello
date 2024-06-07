@@ -31,8 +31,3 @@ export const AppThemeProvider = ({
 		</ThemeProvider>
 	);
 };
-
-// // ...
-// return (
-
-// );
