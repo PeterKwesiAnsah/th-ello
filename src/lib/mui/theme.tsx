@@ -17,6 +17,13 @@ const theme = createTheme({
       `,
 		},
 	},
+	palette: {
+		primary: {
+			main: '#5ACCCC',
+			dark: '#335C6E',
+			contrastText: '#fff',
+		},
+	},
 });
 
 export const AppThemeProvider = ({
